@@ -1,0 +1,15 @@
+creation_timestamp: 1769599550167
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1769599550167
+model_id: m-6f127d2bfd2c4f599774c9bfd563b50a
+name: Random_ForestModel
+run_id: d74ae60c7c2f4ab7bdbf887cccd43624
+run_link: ''
+source: models:/m-6f127d2bfd2c4f599774c9bfd563b50a
+status: READY
+status_message: null
+storage_location: file:///e:/GenAI-1300/1FastAPI_mlflow/mlruns/688749026422565593/models/m-6f127d2bfd2c4f599774c9bfd563b50a/artifacts
+user_id: null
+version: 2

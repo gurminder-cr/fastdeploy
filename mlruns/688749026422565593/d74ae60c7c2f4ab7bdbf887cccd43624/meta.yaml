@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/GenAI-1300/1FastAPI_mlflow/mlruns/688749026422565593/d74ae60c7c2f4ab7bdbf887cccd43624/artifacts
+end_time: 1769599419544
+entry_point_name: ''
+experiment_id: '688749026422565593'
+lifecycle_stage: active
+run_id: d74ae60c7c2f4ab7bdbf887cccd43624
+run_name: Autism_prediction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769599399082
+status: 3
+tags: []
+user_id: Gurminder

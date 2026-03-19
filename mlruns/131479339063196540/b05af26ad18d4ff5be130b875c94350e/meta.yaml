@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/GenAI-1300/FastAPI_mlflow/mlruns/131479339063196540/b05af26ad18d4ff5be130b875c94350e/artifacts
+deleted_time: 1768811277002
+end_time: 1768811213246
+entry_point_name: ''
+experiment_id: '131479339063196540'
+lifecycle_stage: deleted
+run_id: b05af26ad18d4ff5be130b875c94350e
+run_name: GenAIv2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768811190081
+status: 3
+tags: []
+user_id: Gurminder

@@ -1,0 +1,10 @@
+artifact_location: file:///e:/GenAI-1300/FastAPI_mlflow/mlruns/131479339063196540/models/m-4940dd8ded0340b597b86de481a96671/artifacts
+creation_timestamp: 1768810401063
+experiment_id: '131479339063196540'
+last_updated_timestamp: 1768810411320
+model_id: m-4940dd8ded0340b597b86de481a96671
+model_type: ''
+name: Decision Tree Model
+source_run_id: 3ef7fe97d2564c1faf5d52e5de83396e
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///e:/GenAI-1300/1FastAPI_mlflow/mlruns/688749026422565593/models/m-6f127d2bfd2c4f599774c9bfd563b50a/artifacts
+creation_timestamp: 1769599399404
+experiment_id: '688749026422565593'
+last_updated_timestamp: 1769599419513
+model_id: m-6f127d2bfd2c4f599774c9bfd563b50a
+model_type: ''
+name: Random_ForestModel
+source_run_id: d74ae60c7c2f4ab7bdbf887cccd43624
+status: 2
+status_message: null

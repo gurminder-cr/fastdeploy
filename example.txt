@@ -1,0 +1,10 @@
+Mobile Application - backend Node Js 
+-- Machine learning models - Python - ML Models - fastAPI- deploy 
+-- streamlit - model ui -- 
+
+                request 
+customer ------> waiter ------->kitchen 
+    <---- response
+
+client side(front end) ---->API --->Backend(Sever)
+            <----------------------
